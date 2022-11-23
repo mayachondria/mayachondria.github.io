@@ -2,7 +2,7 @@
 layout: page
 title: submenus
 nav: true
-nav_order: 2
+nav_order: false
 dropdown: false
 children: 
     - title: publications
