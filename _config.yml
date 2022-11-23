@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -90,6 +90,7 @@ stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: 2xVoufTBiystuRPx6TVKwD?si=teb44E3mRlyY0qkWzEW0qw
+spotify2_id: 6zrR268yXIl6r7OF2eXDtr?si=Lae1FfIZSw2VhRRexfxy0g
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
@@ -233,8 +234,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Chan, Morales]
+  first_name: [Maya]
 
   style: apa
   locale: en
