@@ -2,13 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>1080 Behavioral Sciences Building</p>
+    <p>1007 W. Harrison St.</p>
+    <p>Chicago, IL, 60607</p>
     
 
 news: false  # includes a list of news items
